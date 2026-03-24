@@ -1,0 +1,10 @@
+body { font-family: 'Inter', sans-serif; margin: 0; background-color: #f3f7ff; }
+.navbar { display: flex; justify-content: space-between; align-items: center; padding: 15px 50px; background: white; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.logo { font-size: 24px; font-weight: bold; color: #1b4697; }
+.menu span { margin: 0 15px; color: #444; cursor: pointer; }
+.login-btn { background: #1b4697; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+.hero { text-align: center; padding: 100px 20px; background: white; }
+.hero h1 { font-size: 50px; }
+.blue-text { color: #1b4697; }
+.course-container { display: flex; justify-content: center; gap: 20px; padding: 50px; }
+.card { background: white; padding: 30px; border-radius: 10px; width: 250px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); border: 1px solid #eee; text-align: center; }
